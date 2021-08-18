@@ -1,0 +1,14 @@
+{
+  "name": "hoster",
+  "version": "1.0.0",
+  "description": "elaborotion how node can handle streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

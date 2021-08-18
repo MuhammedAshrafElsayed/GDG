@@ -1,0 +1,8 @@
+
+ request on 2019-09-09T09:15:34.740Z: {url: /users, query: [object Object]}
+ request on 2019-09-09T09:15:38.415Z: {url: /favicon.ico, query: [object Object]}
+ request on 2019-09-09T09:15:48.729Z: {url: /users, query: [object Object]}
+ request on 2019-09-09T09:15:57.021Z: {url: /users, query: [object Object]}
+ request on 2019-09-09T09:16:13.674Z: {url: /users, query: [object Object]}
+ request on 2019-09-09T09:16:17.077Z: {url: /favicon.ico, query: [object Object]}
+ request on 2019-09-09T09:17:07.409Z: {url: /users, query: [object Object]}
